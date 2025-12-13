@@ -1,0 +1,29 @@
+#Hero-main {
+    font-size: 35px;
+    font-family: sans-serif;
+    text-align: center;
+    margin: auto;
+    padding: 30px;
+    font-weight: bold;
+
+}
+
+#para-main {
+    font-size: 15px;
+    font-family: sans-serif;
+    text-align: center;
+    max-width: 750px;
+    margin: auto;
+
+}
+
+#btn-1 {
+background-color: black;
+color: white;
+border-radius: 25px;
+padding: 5px;
+
+}
+
+
+ 

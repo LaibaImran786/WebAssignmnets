@@ -1,0 +1,109 @@
+body {
+    background-color: #A7D899;
+    font-family: Arial,sans-serif;
+    margin: 40px;
+}
+
+.Hero-main {
+font-family: Arial;
+text-align: center;
+
+}
+
+.Hero-main h1{
+    font-size: 35px;
+    margin-bottom: 10px;
+
+}
+
+.Hero-main p{
+    font-size: 14px;
+    max-width: 700px;
+    margin: auto;
+}
+
+.btn-1 {
+    border-radius: 25px;
+    background-color: black;
+    color: white;
+    padding: 12px 30px;
+    border: none;
+    margin-top: 25px;
+    
+}
+
+.img11 {
+    justify-content: center;
+    padding: 20px;
+    display: flex;
+    margin: 20px;
+    
+}
+
+.img11 img {
+    border-radius: 10px;
+    max-width: 600px;
+    width: 400px;
+    height: 450px;
+
+}
+
+.box {
+    background-color: black;
+    display: flex;
+    flex-wrap: nowrap;
+    border-radius: 20px;
+    color: white;
+    margin:   40px auto;
+    margin-bottom: 100px;
+    padding: 50px 10px;
+    max-width: 1000px;
+    align-items: center;
+    gap: 20px;
+    height: 300px;
+
+}
+
+.img22 {
+    margin: 15px;
+    width: 500px;
+    height: 300px;
+    border-radius: 20px;
+    object-fit: cover;
+
+}
+
+.sub-box h1 {
+    text-align: left;
+    font-family: sans-serif;
+    font-size: 50px;
+margin: 5px;
+padding: 5px;
+
+}
+
+.sub-box p {
+    font-size: 25px;
+    font-family: sans-serif;
+    margin: 5px;
+    padding: 10px;
+    text-align:justify;
+    
+}
+
+.btn-2 {
+    background-color: black;
+    color: white;
+    border-radius: 23px;
+    border-color: #A7D899;
+    padding: 12px 40px;
+    margin: 15px;
+    font-size: 18px;
+
+}
+                                                                                                                                                                
+
+
+
+
+
