@@ -1,0 +1,94 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Segoe UI", Arial, sans-serif;
+}
+
+body {
+    background-color: #ffffff;
+    color: #333;
+}
+
+.services {
+    padding: 70px 0;
+}
+
+.container {
+    width: 85%;
+    margin: auto;
+}
+
+.section-header {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.subtitle {
+    color: #5a8f65;
+    font-weight: 600;
+    letter-spacing: 1px;
+    font-size: 14px;
+}
+
+.section-header h2 {
+    font-size: 38px;
+    margin-top: 10px;
+    font-weight: 700;
+}
+
+.content {
+    display: flex;
+    gap: 40px;
+    align-items: flex-start;
+}
+
+/* Left Menu */
+.service-menu {
+    width: 28%;
+}
+
+.service-menu button {
+    width: 100%;
+    padding: 18px;
+    margin-bottom: 12px;
+    border: 1px solid #e5e5e5;
+    background: #fff;
+    text-align: left;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.service-menu button:hover {
+    background-color: #f4f7f4;
+}
+
+.service-menu .active {
+    background-color: #5a8f65;
+    color: #fff;
+    border-color: #5a8f65;
+}
+
+/* Right Content */
+.service-details {
+    width: 72%;
+}
+
+.service-details img {
+    width: 100%;
+    border-radius: 4px;
+    margin-bottom: 25px;
+}
+
+.service-details h3 {
+    font-size: 28px;
+    margin-bottom: 15px;
+}
+
+.service-details p {
+    font-size: 16px;
+    line-height: 1.7;
+    color: #666;
+}
